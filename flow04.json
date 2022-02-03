@@ -1,0 +1,21 @@
+[
+    {
+        "id": "6288df3507b774c8",
+        "type": "inject",
+        "z": "f491c927beeecffb",
+        "name": "generate data",
+        "props": [],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "1",
+        "topic": "",
+        "x": 130,
+        "y": 100,
+        "wires": [
+            [
+                "1ca04c831176ed9e"
+            ]
+        ]
+    }
+]
