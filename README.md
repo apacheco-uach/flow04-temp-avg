@@ -1,8 +1,8 @@
 # flow04-temp-avg
 Each second generate temp value. Computes temp average every 5 seconds.
 
-### Clase 
 Ejercicio libre (26/01/2022 && 02/02/2022).
+
 Source: http://noderedguide.com/node-red-lecture-6-example-6-3-using-context-to-generate-rolling-averages/
 
 ## Dashboard:
@@ -10,6 +10,9 @@ Source: http://noderedguide.com/node-red-lecture-6-example-6-3-using-context-to-
 
 ## Flow:
 ![flow4 nodes](https://user-images.githubusercontent.com/95945745/152285607-c21bbc77-c062-4983-b2fa-2c7fbbe3ea2b.jpg)
+
+## Inject node configuration:
+![flow4 config](https://user-images.githubusercontent.com/95945745/152286424-e3437da1-a3d9-415e-8c53-bd5bb3057780.jpg)
 
 ## Function: ramp
 ```javascript
